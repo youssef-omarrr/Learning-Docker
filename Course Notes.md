@@ -1,7 +1,7 @@
 
 ## Client vs Host vs Registry
 
-![[Pasted image 20250711233649.png]]
+![[img/Pasted image 20250711233649.png]]
 ### 🧭 1. **Docker Client**
 
 **What it is**:  
