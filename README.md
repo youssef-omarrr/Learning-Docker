@@ -4,9 +4,10 @@ This repository contains my personal notes, examples, and mini-projects as I lea
 
 ## 📁 Contents
 
-- `Docker Notes.md` — A quick overview of docker and the most important topics.
-- `MNIST Web App docker.md` — Trying to make a docker image on the MNIST web app project.
-- `Images vs Containers vs Volumes.md` — Concepts and comparisons.
+- `Docker Notes.md`: A quick overview of docker and the most important topics.
+- `MNIST Web App docker.md`: Trying to make a docker image on the MNIST web app project.
+- `Images vs Containers vs Volumes.md`: Concepts and comparisons.
+- `Course Notes`: Notes from this [course](https://www.youtube.com/watch?v=GFgJkfScVNU&t=543s), [Github](https://github.com/adrianhajdin/docker-course)
 
 ## Topics Covered
 

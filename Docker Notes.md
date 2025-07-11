@@ -113,7 +113,11 @@ For more examples and ideas, visit:
     ```bash
     docker container prune
     ```
-    
+
+- To kill the vmmem process run this as admin in cmd:
+```
+taskkill /f /im wslservice.exe
+```
 
 ---
 
