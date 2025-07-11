@@ -1,7 +1,7 @@
 
 ## Client vs Host vs Registry
 
-![[img/Pasted image 20250711233649.png]]
+![[assets/Pasted image 20250711233649.png]]
 ### 🧭 1. **Docker Client**
 
 **What it is**:  
@@ -254,7 +254,7 @@ This command reads `docker-compose.yml`, builds images (if needed), and runs all
 
 ## Docker compose watch
 
-![[Pasted image 20250712002303.png]]
+![[assets/Pasted image 20250712002303.png]]
 
 **`docker compose watch`** is a newer command (introduced in Docker Compose v2.24+) that watches your local files for changes and **automatically restarts containers** or **rebuilds services** when relevant files are updated—ideal for development.
 
